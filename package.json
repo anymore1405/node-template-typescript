@@ -1,12 +1,13 @@
 {
   "name": "node-template-typescript",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Template Node.js development in TypeScript.",
   "engines": {
     "node": ">= 12.13 <13"
   },
   "main": "lib/main.js",
   "types": "lib/main.d.ts",
+  "repository": "github:anymore1405/node-template-typescript",
   "files": [
     "lib/"
   ],
@@ -36,8 +37,5 @@
     "test:watch": "jest --watch",
     "format": "prettier --write \"src/**/*.ts\""
   },
-  "author": "anymore1405",
-  "dependencies": {
-    "tslib": "~2.0.0"
-  }
+  "author": "anymore1405"
 }
