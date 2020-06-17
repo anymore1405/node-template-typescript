@@ -1,6 +1,6 @@
 {
   "name": "node-template-typescript",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Template Node.js development in TypeScript.",
   "engines": {
     "node": ">= 12.13 <13"
